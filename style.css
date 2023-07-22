@@ -1,0 +1,45 @@
+
+body
+{
+	background-image:url(https://t4.ftcdn.net/jpg/02/99/84/89/360_F_299848927_S0EwX0P6HWGigW6qZWFIBaczKMQuq5D9.jpg);
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+h1 
+{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+font-weight: bolder;
+background-color: gold;
+
+}
